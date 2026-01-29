@@ -8,3 +8,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting \${ZSH_CUSTOM:-~/
 git clone https://github.com/Aloxaf/fzf-tab \${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/fzf-tab
 
 ```
+```bash
+exec zsh
+
+```
